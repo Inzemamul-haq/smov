@@ -46,10 +46,7 @@ export function JipPage() {
           />
           <Button
             className="box-content w-full py-1 text-lg bg-buttons-secondary hover:bg-buttons-secondaryHover bg-opacity-90 text-buttons-secondaryText justify-center items-center inline-block"
-            onClick={() => window.open(
-              "https://github.com/ishqdehlvi", 
-              "_blank"
-            )}
+            onClick={() => window.open("https://github.com/jipfr", "_blank")}
           >
             Jipfr on GitHub
           </Button>
