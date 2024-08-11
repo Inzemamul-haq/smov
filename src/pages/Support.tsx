@@ -95,7 +95,7 @@ export function SupportPage() {
             <Button
               className="py px-4 box-content bg-buttons-secondary hover:bg-buttons-secondaryHover bg-opacity-90 text-buttons-secondaryText justify-center items-center inline-block"
               onClick={() =>
-                window.open("https://inzi.dev", "_blank")
+                window.open("https://sussy-code.github.io/docs", "_blank")
               }
             >
               watch-movies Docs
@@ -111,7 +111,7 @@ export function SupportPage() {
             </Item>,
             <Item title={t("support.q2.title")}>
               <Trans i18nKey="support.q2.body">
-                <MwLink to="https://github.com/sussy-code/smov" />
+                <MwLink to="https://github.com/ishqdehlvi" />
               </Trans>
             </Item>,
           ]}
